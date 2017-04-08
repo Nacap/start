@@ -1,0 +1,3 @@
+change.txt
+
+This is a new file named Change which is added to Github by "add" and "push "command using terminal. 
